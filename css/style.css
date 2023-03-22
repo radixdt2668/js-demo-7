@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    background-color: rgb(188, 236, 169);
+  }
+  
+  main {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 20px 20px;
+  }
+  
+  .bg {
+    background: rgb(201, 219, 224);
+  }
+  
+  .border {
+    border: solid 1px;
+    border-radius: 15px;
+  }
+  
+  .shadow {
+    box-shadow: 16px 14px 17px rgba(0,0,0,.5);
+  }
+  
+  p {
+    text-align: left;
+    padding: 0 20px;
+  }
+  
+  code {
+    color: firebrick;
+  }
+  button{
+    padding: 8px 12px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    font-size: 18px;
+  }
